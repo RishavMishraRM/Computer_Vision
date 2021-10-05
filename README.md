@@ -6,3 +6,5 @@
 ### 3. Types_of_Features_Image_Segmentation  <a href= ""></a>
 ### 4. Feature_Vectors  <a href= ""></a>
 ### 5. CNN_Layers  <a href= ""></a>
+### 6. 
+### 7. LSTM 
