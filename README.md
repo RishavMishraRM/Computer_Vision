@@ -6,5 +6,5 @@
 ### 3. Types_of_Features_Image_Segmentation  <a href= "https://github.com/RishavMishraRM/Computer_Vision/tree/main/Types_of_Features_Image_Segmentation">Link &#128279;</a>
 ### 4. Feature_Vectors  <a href= "https://github.com/RishavMishraRM/Computer_Vision/tree/main/Feature_Vectors">Link &#128279;</a>
 ### 5. CNN_Layers  <a href= "https://github.com/RishavMishraRM/Computer_Vision/tree/main/CNN_Layers">Link &#128279;</a>
-### 6. YOLO  <a href= ""> Link &#128279;</a>
+### 6. YOLO  <a href= "https://github.com/RishavMishraRM/Computer_Vision/tree/main/YOLO"> Link &#128279;</a>
 ### 7. LSTM  <a href= ""> Link &#128279;</a>
