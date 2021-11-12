@@ -13,5 +13,5 @@
 ### 10. Robot_Localization <a href="">Link &#128279;</a></a>
 
 ```
-#### Data for the projects included in the image section
+ Data for the projects included in the image section
 ```
